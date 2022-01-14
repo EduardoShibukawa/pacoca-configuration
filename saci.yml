@@ -3,8 +3,3 @@ management:
     web:
       exposure:
         include: env,health
-
-toggle:
-  brasil: true
-  saci: false
-  iara: false
